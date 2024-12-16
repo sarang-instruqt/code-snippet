@@ -6,12 +6,15 @@ title: Jenkins Configuration
 notes:
 - type: text
   contents: '![jenkins.png](https://play.instruqt.com/assets/tracks/gs4avgczrh2s/58ebe9d8084ae33ca01946707302d110/assets/jenkins.png)'
+- type: image
+  url: https://images.app.goo.gl/BCsRJFeBGvkcK7hw7
 tabs:
 - id: brourtrpwaca
   title: credentials
   type: terminal
   hostname: jenkins1
-  path: ?cmd=cat+%2Fvar%2Flib%2Fjenkins%2Fsecrets%2FinitialAdminPassword&workdir=%2F
+  workdir: /
+  cmd: cat /var/lib/jenkins/secrets/initialAdminPassword
 - id: vn0yeactvqcy
   title: Jenkins
   type: service
