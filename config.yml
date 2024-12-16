@@ -1,1 +1,7 @@
 version: "3"
+virtualmachines:
+- name: jenkins1
+  image: ubuntu-os-cloud/ubuntu-2404-noble-amd64-v20241004
+  machine_type: n1-standard-1
+  memory: 4096
+  cpus: 1

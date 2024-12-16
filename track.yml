@@ -1,20 +1,39 @@
-slug: untitled-track-42m0wl
+slug: jenkins-setup-42m0wl
 id: gs4avgczrh2s
 revision: 1
-title: Untitled Track
-description: ""
-icon: ""
+title: jenkins-setup
+teaser: This is a sample track to setup a Jenkins and open in browser
+description: |-
+  ### **Jenkins is a popular open-source automation server used primarily for continuous integration (CI) and continuous delivery (CD). It automates various stages of software development, such as building, testing, and deploying applications, allowing teams to deliver software faster and with higher quality.**
+  *
+  ## Key Features of Jenkins:
+
+
+  **Extensibility**: Jenkins supports thousands of plugins, enabling integration with a wide range of tools for version control, build automation, testing, and deployment.
+
+  **Cross-Platform:** It can run on various operating systems, including Windows, macOS, and Linux.
+
+  **Distributed Builds:** Jenkins supports distributed builds, allowing tasks to run on multiple machines to speed up the development process.
+
+  **Pipeline as Code:** Jenkins pipelines can be written as code (using Groovy-based scripts), making it easy to define, version, and share CI/CD workflows.
+
+  **Web Interface**: Jenkins provides an easy-to-use web interface for managing jobs, configurations, and monitoring build statuses.
+icon: https://play.instruqt.com/assets/tracks/gs4avgczrh2s/b2527f0153d8d2167102e3cfae3fa108/assets/Jenkins_logo.svg
 tags: []
 owner: instruqt-support
 developers:
 - sarang@instruqt.com
 instructors: []
+show_timer: true
 idle_timeout: 300
-timelimit: 1200
+timelimit: 1800
 lab_config:
   extend_ttl: 0
   sidebar_enabled: true
   hideStopButton: false
   feedback_recap_enabled: true
   feedback_tab_enabled: false
+  theme:
+    name: modern-dark
+  override_challenge_layout: false
   loadingMessages: true
