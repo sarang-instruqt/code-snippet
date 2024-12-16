@@ -19,7 +19,9 @@ description: |-
 
   **Web Interface**: Jenkins provides an easy-to-use web interface for managing jobs, configurations, and monitoring build statuses.
 icon: https://play.instruqt.com/assets/tracks/gs4avgczrh2s/b2527f0153d8d2167102e3cfae3fa108/assets/Jenkins_logo.svg
-tags: []
+tags:
+- jenkin
+- jenkins
 owner: instruqt-support
 developers:
 - sarang@instruqt.com
