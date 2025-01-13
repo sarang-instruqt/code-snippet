@@ -21,6 +21,9 @@ tabs:
   hostname: jenkins1
   path: /
   port: 8080
+- title: test
+  type: terminal
+  hostname: jenkins1
 difficulty: ""
 timelimit: 0
 lab_config:
