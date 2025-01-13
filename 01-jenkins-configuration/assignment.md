@@ -28,7 +28,7 @@ lab_config:
 ---
 ## Credentials
 
-Get Password from terminal
+Get Password from terminall
 
 ## Redirecting to Browser Tab
 
