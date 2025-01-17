@@ -21,7 +21,8 @@ tabs:
   hostname: jenkins1
   path: /
   port: 8080
-- title: test
+- id: vxzv5ibpxkzh
+  title: test
   type: terminal
   hostname: jenkins1
 difficulty: ""

@@ -4,7 +4,7 @@ revision: 1
 title: jenkins-setup
 teaser: This is a sample track to setup a Jenkins and open in browser
 description: |-
-  ### **Jenkins is a popular open-source automation server used primarily for continuous integration (CI) and continuous delivery (CD). It automates various stages of software development, such as building, testing, and deploying applications, allowing teams to deliver software faster and with higher quality.**
+  ### *Jenkins is a popular open-source automation server used primarily for continuous integration (CI) and continuous delivery (CD). It automates various stages of software development, such as building, testing, and deploying applications, allowing teams to deliver software faster and with higher quality.*
   *
   ## Key Features of Jenkins:
 
@@ -35,7 +35,4 @@ lab_config:
   hideStopButton: false
   feedback_recap_enabled: true
   feedback_tab_enabled: false
-  theme:
-    name: modern-dark
-  override_challenge_layout: false
   loadingMessages: true
