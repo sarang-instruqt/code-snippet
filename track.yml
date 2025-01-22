@@ -35,4 +35,5 @@ lab_config:
   hideStopButton: false
   feedback_recap_enabled: true
   feedback_tab_enabled: false
+  override_challenge_layout: false
   loadingMessages: true

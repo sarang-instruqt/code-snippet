@@ -25,6 +25,10 @@ tabs:
   title: test
   type: terminal
   hostname: jenkins1
+- title: Akash
+  type: terminal
+  hostname: jenkins1
+  workdir: /
 difficulty: ""
 timelimit: 0
 lab_config:
