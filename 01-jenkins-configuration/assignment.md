@@ -25,7 +25,8 @@ tabs:
   title: test
   type: terminal
   hostname: jenkins1
-- title: Akash
+- id: vodxr5rri3bw
+  title: Akash
   type: terminal
   hostname: jenkins1
   workdir: /

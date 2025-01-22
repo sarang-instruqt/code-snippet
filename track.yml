@@ -28,12 +28,11 @@ developers:
 instructors: []
 show_timer: true
 idle_timeout: 300
-timelimit: 1800
+timelimit: 72000
 lab_config:
   extend_ttl: 0
   sidebar_enabled: true
   hideStopButton: false
   feedback_recap_enabled: true
   feedback_tab_enabled: false
-  override_challenge_layout: false
   loadingMessages: true
