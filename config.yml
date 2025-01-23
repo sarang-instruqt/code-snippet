@@ -3,3 +3,7 @@ virtualmachines:
 - name: jenkins1
   image: ubuntu-os-cloud/ubuntu-2404-noble-amd64-v20241004
   machine_type: n1-standard-1
+  allow_external_ingress:
+  - http
+  - https
+  - high-ports
