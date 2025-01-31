@@ -30,10 +30,6 @@ tabs:
   type: terminal
   hostname: jenkins1
   workdir: /
-- title: sdssds
-  type: terminal
-  hostname: jenkins1
-  workdir: /
 difficulty: ""
 timelimit: 0
 lab_config:
