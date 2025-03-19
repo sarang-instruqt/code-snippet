@@ -23,7 +23,8 @@ tags:
 - jenkin
 - jenkins
 owner: instruqt-support
-developers: []
+developers:
+- sarang@instruqt.com
 instructors: []
 show_timer: true
 idle_timeout: 3840
