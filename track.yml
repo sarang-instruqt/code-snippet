@@ -31,7 +31,7 @@ show_timer: true
 idle_timeout: 300
 timelimit: 900
 lab_config:
-  extend_ttl: 0
+  extend_ttl: 300
   sidebar_enabled: true
   hideStopButton: false
   feedback_recap_enabled: true
