@@ -24,8 +24,8 @@ tags:
 - jenkins
 owner: instruqt-support
 developers:
-- sarang@instruqt.com
 - akash@instruqt.com
+- sarang@instruqt.com
 instructors: []
 show_timer: true
 idle_timeout: 3840
@@ -36,5 +36,4 @@ lab_config:
   hideStopButton: false
   feedback_recap_enabled: true
   feedback_tab_enabled: false
-  override_challenge_layout: false
   loadingMessages: true
