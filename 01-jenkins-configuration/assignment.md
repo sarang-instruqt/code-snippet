@@ -13,7 +13,8 @@ tabs:
   title: credentials
   type: terminal
   hostname: jenkins1
-  path: ?cmd=cat+%2Fvar%2Flib%2Fjenkins%2Fsecrets%2FinitialAdminPassword&workdir=%2F
+  workdir: /
+  cmd: cat /var/lib/jenkins/secrets/initialAdminPassword
 - id: vn0yeactvqcy
   title: Jenkins
   type: service
@@ -28,7 +29,7 @@ tabs:
   title: Akash
   type: terminal
   hostname: jenkins1
-  path: ?workdir=%2F
+  workdir: /
 difficulty: ""
 timelimit: 0
 lab_config:
