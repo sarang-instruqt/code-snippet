@@ -44,5 +44,6 @@ Get Password from terminall
 
 Clicking the Jenkins tab beside the Credentials tab will take you to the Jenkins login page.
 
+[[ Instruqt-Var key="myip" hostname="jenkins1" ]]
 
 
