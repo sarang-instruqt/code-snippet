@@ -21,6 +21,7 @@ tabs:
   hostname: jenkins1
   path: /
   port: 8080
+  new_window: true
 - id: vxzv5ibpxkzh
   title: test
   type: terminal
