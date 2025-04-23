@@ -31,6 +31,10 @@ tabs:
   type: terminal
   hostname: jenkins1
   workdir: /
+- title: custom file
+  type: code
+  hostname: jenkins1
+  path: /root/sl/test
 difficulty: ""
 timelimit: 0
 lab_config:
