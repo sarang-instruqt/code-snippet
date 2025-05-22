@@ -53,4 +53,4 @@ Clicking the Jenkins tab beside the Credentials tab will take you to the Jenkins
 [[ Instruqt-Var key="myip" hostname="jenkins1" ]]
 
 
-
+![imagename](../assets/output.png)
