@@ -31,7 +31,8 @@ tabs:
   type: terminal
   hostname: jenkins1
   workdir: /
-- title: custom file
+- id: 8t5dgnoncxuy
+  title: custom file
   type: code
   hostname: jenkins1
   path: /root/sl/test
@@ -52,3 +53,4 @@ Clicking the Jenkins tab beside the Credentials tab will take you to the Jenkins
 [[ Instruqt-Var key="myip" hostname="jenkins1" ]]
 
 
+(../assets/image (1).png)
