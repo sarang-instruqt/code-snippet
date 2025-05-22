@@ -41,8 +41,3 @@ echo "Starting and enabling Jenkins..."
 sudo systemctl start jenkins
 sudo systemctl enable jenkins
 
-
-myip= "$(hostname -I | awk '{print $1}')"
-echo "My IP address: ${myip}
-
-agent variable set MY_IP $myip
