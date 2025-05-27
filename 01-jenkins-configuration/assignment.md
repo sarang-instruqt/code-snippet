@@ -13,8 +13,7 @@ tabs:
   title: credentials
   type: terminal
   hostname: jenkins1
-  workdir: /
-  cmd: cat /var/lib/jenkins/secrets/initialAdminPassword
+  path: ?cmd=cat+%2Fvar%2Flib%2Fjenkins%2Fsecrets%2FinitialAdminPassword&workdir=%2F
 - id: vn0yeactvqcy
   title: Jenkins
   type: service
@@ -30,7 +29,7 @@ tabs:
   title: Akash
   type: terminal
   hostname: jenkins1
-  workdir: /
+  path: ?workdir=%2F
 - id: 8t5dgnoncxuy
   title: custom file
   type: code
@@ -53,4 +52,4 @@ Clicking the Jenkins tab beside the Credentials tab will take you to the Jenkins
 [[ Instruqt-Var key="myip" hostname="jenkins1" ]]
 
 
-![imagename](..\assets\output.png)
+![imagename](https://play.instruqt.com/assets/tracks/gs4avgczrh2s/067b864bf9437fbcae255afa7b5f62c1/assets/output.png)
